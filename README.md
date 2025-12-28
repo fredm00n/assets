@@ -1,6 +1,6 @@
 # assets
-public repo for assets hosting - do not remove
+public repo for asset hosting - do not remove
 
 ## method
-- asset: 
-- url https://fredm00n.github.io/assets/strut-consulting/Navy-Logo-Icon-Only.png
+- asset: /folder/image.png
+- url https://fredm00n.github.io/assets/folder/image.png
