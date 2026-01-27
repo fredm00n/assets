@@ -1,0 +1,1 @@
+assets for strut consulting email signature
